@@ -1,0 +1,1 @@
+export const isURl = (url: string): boolean => true

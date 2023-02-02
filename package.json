@@ -1,20 +1,12 @@
 {
-  "name": "rollup-plugin-ts-test",
+  "name": "rollup-plugin-ts-vite-error",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {
-    "react": "^16.14.0",
-    "react-did-catch": "^0.2.1",
-    "react-dom": "^16.14.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@types/react": "^16.9.53",
-    "@types/react-dom": "^16.9.8",
-    "rollup": "^2.32.0",
-    "@rollup/plugin-commonjs": "^15.1.0",
-    "@rollup/plugin-node-resolve": "^9.0.0",
-    "@wessberg/rollup-plugin-ts": "^1.3.5",
-    "rollup-plugin-shim": "^1.0.0",
-    "typescript": "^4.0.3"
+    "rollup": "3.12.1",
+    "rollup-plugin-ts": "3.2.0",
+    "typescript": "4.9.5",
+    "vite": "4.1.1"
   }
 }
